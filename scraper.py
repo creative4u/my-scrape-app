@@ -15,4 +15,3 @@ def scrape_books():
     return books
 
 
-print(scrape_books())

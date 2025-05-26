@@ -5,8 +5,7 @@ dnspython
 requests
 beautifulsoup4
 python-dotenv
-flask
-gunicorn
+
 
 
 

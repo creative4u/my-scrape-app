@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Dummy login
 USERNAME = "admin"
-PASSWORD = "admin123"
+PASSWORD = "game@123456789"
 
 @app.route('/')
 def login():
